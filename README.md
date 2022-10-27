@@ -1,2 +1,2 @@
-# PyDevelover
-Repository for the works of the course "Python Developer"
+# Репозиторий для работ по курсу "Python разработчик"
+
