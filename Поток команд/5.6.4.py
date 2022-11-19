@@ -1,4 +1,4 @@
 text = "How are you? Eh, ok. Low or Lower? Ohhh."
 for i in range(len(text)):
-    if (ord(text[i]) >= 65) and (ord(text[i]) <= 90):
+    if text[i].isupper():
         print(text[i], end='')
